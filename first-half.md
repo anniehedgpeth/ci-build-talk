@@ -13,7 +13,12 @@
     3. Had to train
 ### III. Pull Request Builds
   A. Had to enforce Test Kitchen since we couldn't trust is people would use it
+      
+      i. Getting feedback back to the reviewers is critical. We had all this automation hooked up, builds automatically kicking
+      off for each commit. But without easy feedback, we still had red build. 
+  
   B. Because the backlog was top priority, had to work it in on the side
+  
   C. Had to work across teams to figure out BitBucket / Jenkins integration
     1. Nick and Ray
     2. DevOps basics
