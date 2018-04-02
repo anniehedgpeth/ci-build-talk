@@ -61,3 +61,7 @@
   
   B. When we got a new Chef server, we had to start uploading our cookbooks to it. With Jenkins "Shared Libraries" it was as simple as modifying one place. 
   
+For next week 4/9:
+- think about outline
+- think about main points to highlight
+- think about demo
