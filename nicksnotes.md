@@ -21,3 +21,9 @@ Chef cookbooks are a perfect candidate for managing at a higher level. All shoul
  * I think we need a small Jenkins server hooked up to GitHub. Probably do a small docker container locally
 
  * Figure out what we are going to demo (if anything?)
+
+
+# Remember
+
+
+* Annie was working on the workflow of the cookbooks while I was working on the workflow to get the cookbooks in the workflow. That's how we got hooked up. 
