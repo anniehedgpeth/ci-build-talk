@@ -1,4 +1,13 @@
-# Chef Conf Talk
+# Chef Conf Talk: 
+## Making the Right Thing to Do the Easy Thing to Do - Chef and InSpec Builds with Jenkins
+
+May 23rd at 4:00 PM until 4:40 PM
+
+> We know that the right thing to do during cookbook development is to use cookstyle and foodcritic for linting, InSpec for integration tests, and Test Kitchen to test cookbook data across any combination of platforms and test suites. But how do we enforce this? 
+
+> Part of the answer is to make the right thing to do the easy thing to do. The other part of the answer is to make the right thing to do the necessary thing. 
+
+> This talk is meant to be an introduction to creating a continuous integration strategy for your cookbook development by using a cookbook build in Jenkins and integrating it with Git. Sprinkled throughout this talk will also be tips and tricks to using this simple build as a culture-change agent on your team and within your organization, slowly turning people's disdain for testing into a love affair with it.
 
 ## I. Back-story
   A. Relativity has been a long-term client
@@ -14,7 +23,13 @@
   A. Jira backlog took precendence
   
   B. Then started adding Test Kitchen and InSpec tests to cookbooks
-  
+
+DEMO: OPEN TERMINAL
+- ALREADY HAVE A KITCHEN CREATED
+- SHOW IN PORTAL
+- KITCHEN CONVERGE
+- KITCHEN VERIFY
+
     1. Not everyone knew how to run it locally
     
     2. Develop was still broken all the time
